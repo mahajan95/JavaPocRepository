@@ -21,6 +21,14 @@ This project will read the properties file in Spring boot Application.
 
 6) user.properties
 
+![image](https://user-images.githubusercontent.com/44647615/79999023-0c753900-84d9-11ea-9f64-172718f1e6d2.png)
+
+
+7)  Final Output 
+
+![image](https://user-images.githubusercontent.com/44647615/79999503-9ae9ba80-84d9-11ea-9654-a4fb60f45d21.png)
+
+
 
 
 
